@@ -1,3 +1,7 @@
+**CUSTOMIZATION**
+
+If you want to customize neofetch like me, you have to replace your config.conf file with this file inside your "/home/$USER/.config/neofetch/" folder.
+
 **IMPORTANT**
 
 Remember to indicate the path of the image to load in neofetch.
