@@ -4,6 +4,12 @@ Config files for my distro customization
 Hope you can enjoy this rice and get inspiration by this work of mine ^-^
 
 > To have the pacman and ghosts icons in neofetch, download and install the ***material-design-icons*** package.
+>
+> To have the icons/glyphs used for components in neofetch download and install nerd-fonts and noto-emoji packages.
+>
+> To customize the shell(I'm on Zsh), I'm using Oh-My-Zsh with "Agnoster" theme (I modified it a bit) to have the powerline.
+>
+> I also downloaded the "powerline", "powerline-fonts" and "fontawesome-fonts" packages. 
 
 #### I'm using Fedora btw. (lol)
 
