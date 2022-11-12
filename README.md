@@ -20,6 +20,7 @@ This is a work-in-progress. Atm the only thing riced is neofetch and kitty termi
 
 The ***Screen*** folder is only for storing the screenshots to put here to show the rice.
 
+___
 
 For some software/information:
 - kitty: https://github.com/kovidgoyal/kitty
