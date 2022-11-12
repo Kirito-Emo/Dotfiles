@@ -9,7 +9,7 @@ Hope you can enjoy this rice and get inspiration by this work of mine ^-^
 >
 - To customize the shell(I'm on Zsh), I'm using Oh-My-Zsh with "Agnoster" theme (I modified it a bit) to have the powerline.
 >
-- I also downloaded the "powerline", "powerline-fonts" and "fontawesome-fonts" packages. 
+- I also downloaded the "powerline", "powerline-fonts", "fontawesome-fonts" and "Menlo-for-Powerline" font packages. 
 
 #### I'm using Fedora btw. (lol)
 
