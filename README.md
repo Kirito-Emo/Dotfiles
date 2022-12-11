@@ -16,7 +16,7 @@ Hope you can enjoy this rice and get inspiration by this work of mine ^-^
 
 This is a work-in-progress. Atm the only thing riced is oh-my-zsh, neofetch and kitty terminal, but soon will be more things.
 
-![Neofetch](https://github.com/Kirito-Emo/Dotfiles/blob/main/Screen/neofetch.png)
+![Neofetch](Screen/neofetch2.png)
 
 The ***Screen*** folder is only for storing the screenshots to put here to show the rice.
 
