@@ -3,7 +3,7 @@ Config files for my distro customization
 
 Hope you can enjoy this rice and get inspiration by this work of mine ^-^
 
-- To customize the shell(I'm on Zsh), I'm using Oh-My-Zsh with "Agnoster" theme (I modified it a bit) to have the powerline.
+- To customize the shell (I'm on Zsh), I'm using Oh-My-Zsh with "Agnoster" theme (I modified it a bit) to have the powerline.
 >
 - I downloaded the "powerline", "powerline-fonts", "fontawesome-fonts" and "Menlo-for-Powerline" font packages.
 >
